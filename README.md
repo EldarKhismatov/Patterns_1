@@ -1,1 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/wq9r7iewi4edio6m?svg=true)](https://ci.appveyor.com/project/EldarKhismatov/patterns-1)
+![image](https://github.com/EldarKhismatov/Patterns_1/assets/109541884/5cae13d9-05ac-4a3d-986d-b1ca9c976ba4)
+![image](https://github.com/EldarKhismatov/Patterns_1/assets/109541884/c09b8830-2350-432f-a910-f7d21af1f151)
+![image](https://github.com/EldarKhismatov/Patterns_1/assets/109541884/53850827-1e97-4b1b-a881-b3d1b4d03238)
+![image](https://github.com/EldarKhismatov/Patterns_1/assets/109541884/15b29203-e8bd-40dd-abc7-0d0e19ffe038)
+![image](https://github.com/EldarKhismatov/Patterns_1/assets/109541884/096dc53c-a57e-4def-ad17-ceb2f9044d42)
+![image](https://github.com/EldarKhismatov/Patterns_1/assets/109541884/6a528ce2-391b-4ccd-8759-80b3409bbd8d)
